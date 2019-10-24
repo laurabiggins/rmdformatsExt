@@ -1,0 +1,30 @@
+Package: rmdformats
+Maintainer: Julien Barnier <julien.barnier@ens-lyon.fr>
+Authors@R: c(person("Julien", "Barnier", email="julien.barnier@ens-lyon.fr",
+    role=c("aut","cre")))
+Version: 0.3.6
+Date: 2019-02-20
+License: GPL (>= 2)
+Encoding: UTF-8
+Title: HTML Output Formats and Templates for 'rmarkdown' Documents
+Description: HTML formats and templates for 'rmarkdown' documents, with some extra
+    features such as automatic table of contents, lightboxed figures, dynamic
+    crosstab helper.
+Imports: knitr, rmarkdown, bookdown, htmltools, questionr
+URL: https://github.com/juba/rmdformats
+RoxygenNote: 6.1.1
+VignetteBuilder: knitr
+RemoteType: github
+RemoteHost: api.github.com
+RemoteRepo: rmdformats
+RemoteUsername: juba
+RemoteRef: master
+RemoteSha: d1ccedc97d0be77bc1fb3eba7ca6233d95f05287
+GithubRepo: rmdformats
+GithubUsername: juba
+GithubRef: master
+GithubSHA1: d1ccedc97d0be77bc1fb3eba7ca6233d95f05287
+NeedsCompilation: no
+Packaged: 2019-10-22 10:59:52 UTC; bigginsl
+Author: Julien Barnier [aut, cre]
+Built: R 3.6.1; ; 2019-10-22 10:59:55 UTC; windows
